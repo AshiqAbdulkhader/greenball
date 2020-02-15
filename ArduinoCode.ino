@@ -1,8 +1,8 @@
 int data;
 void setup() {
   Serial.begin(9600);
-  pinMode(12,OUTPUT); //pin for red LED
-  pinMode(8,OUTPUT); //pin for blue LED
+  pinMode(12,OUTPUT); //pin for Red LED
+  pinMode(8,OUTPUT); //pin for Green LED
   
 
 }
