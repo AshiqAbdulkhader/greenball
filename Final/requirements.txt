@@ -1,0 +1,4 @@
+pyserial
+flask
+opencv-python
+numpy
