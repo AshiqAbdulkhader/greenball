@@ -9,14 +9,14 @@ video feed along with the position and percentage of area covered by the ball in
 
 This project uses Arduino.Arduino is an open-source electronics platform based on easy-to-use hardware and software.
 Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and 
-turn it into an output - activating a motor, turning on an LED, publishing something online.
+turn it into an output - activating a motor, turning on an LED, publishing someth ing online.
 
 it also uses python libraries such as
 
 opencv -(Open Source Computer Vision Library) is an open source computer vision and machine learning software library
 numpy - NumPy is the fundamental package for scientific computing with Python
 flask - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy,
-         with the ability to scale up to complex applications.
+            with the ability to scale up to complex applications.
 pyserial - python Serial Port Extension for Win32, OSX, Linux, BSD, Jython, IronPython
 
 ## Getting Started
