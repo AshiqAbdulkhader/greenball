@@ -14,7 +14,7 @@ turn it into an output - activating a motor, turning on an LED, publishing somet
 it also uses python libraries such as
 
 opencv -(Open Source Computer Vision Library) is an open source computer vision and machine learning software library
-numpy - umPy is the fundamental package for scientific computing with Python
+numpy - NumPy is the fundamental package for scientific computing with Python
 flask - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy,
          with the ability to scale up to complex applications.
 pyserial - python Serial Port Extension for Win32, OSX, Linux, BSD, Jython, IronPython
